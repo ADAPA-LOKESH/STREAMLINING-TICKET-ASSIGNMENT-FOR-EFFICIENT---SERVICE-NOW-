@@ -27,7 +27,7 @@ The main goal is to improve operational efficiency by automatically assigning su
 
 > 💬 *Comment:* Creating users helps define who can interact with the system. Each user can later be assigned to groups and roles.  
 
-![Create Users Screenshot](./images/1%20User%201.png) 
+![Create Users Screenshot](.1%20User%201.png) 
 ![Create Users Screenshot](./images/2%20User%202.png) 
 
 > 📸 *Comment for photo:* Screenshot showing user creation form in ServiceNow with user details filled.
@@ -207,3 +207,4 @@ By automating group assignments using Flows, the system reduces manual effort, m
 ---
 
 ## 📂 Folder Structure Example
+
