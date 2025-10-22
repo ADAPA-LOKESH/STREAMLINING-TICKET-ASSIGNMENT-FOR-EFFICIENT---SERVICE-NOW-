@@ -28,7 +28,7 @@ The main goal is to improve operational efficiency by automatically assigning su
 > 💬 *Comment:* Creating users helps define who can interact with the system. Each user can later be assigned to groups and roles.  
 
 ![Create Users Screenshot](1%20User%201.png) 
-![Create Users Screenshot](./images/2%20User%202.png) 
+![Create Users Screenshot](2%20User%202.png) 
 
 > 📸 *Comment for photo:* Screenshot showing user creation form in ServiceNow with user details filled.
 
@@ -45,8 +45,8 @@ The main goal is to improve operational efficiency by automatically assigning su
 
 > 💬 *Comment:* Groups represent departments or teams such as “Certificates” or “Platform” — they’re key for automatic ticket routing.  
 
-![Create Groups Screenshot](./images/3%20Certificates%20Group%201.png)  
-![Create Groups Screenshot](./images/4%20Platform%20Group%202.png)
+![Create Groups Screenshot](3%20Certificates%20Group%201.png)  
+![Create Groups Screenshot](4%20Platform%20Group%202.png)
 > 📸 *Comment for photo:* Screenshot of group form showing "Certificates" group being created.
 
 ---
@@ -62,8 +62,8 @@ The main goal is to improve operational efficiency by automatically assigning su
 
 > 💬 *Comment:* Roles control **permissions and access** to ServiceNow modules and tables.  
 
-![Create Groups Screenshot](./images/5%20Certification_role.png)
-![Create Groups Screenshot](./images/6%20Platform_role.png)
+![Create Groups Screenshot](5%20Certification_role.png)
+![Create Groups Screenshot](6%20Platform_role.png)
 > 📸 *Comment for photo:* Screenshot of role creation showing “Platform_Role”.
 
 ---
@@ -87,7 +87,7 @@ The main goal is to improve operational efficiency by automatically assigning su
 
 > 💬 *Comment:* The table stores all operational issues and their related ticket data, forming the foundation for the automation process.
 
-![Create Groups Screenshot](./images/7%20Operations%20Related%20Table.png)
+![Create Groups Screenshot](7%20Operations%20Related%20Table.png)
 
 > 📸 *Comment for photo:* Screenshot showing “Operations Related” table structure with issue field choices.
 
@@ -142,7 +142,7 @@ The main goal is to improve operational efficiency by automatically assigning su
 
 > 💬 *Comment:* ACLs strengthen **security** by controlling which roles can access or modify specific fields.  
 
-![Create ACL Screenshot](./images/8%20ACLs%204.png)  
+![Create ACL Screenshot](8%20ACLs%204.png)  
 > 📸 *Comment for photo:* Screenshot showing ACL configuration window with admin role applied.
 
 ---
@@ -165,7 +165,7 @@ The main goal is to improve operational efficiency by automatically assigning su
 
 > 💬 *Comment:* This flow ensures that all certificate-related issues are instantly routed to the Certificate team.  
 
-![Certificate Flow Screenshot](./images/9%20Regarding%20Certification%20Flow.png)  
+![Certificate Flow Screenshot](9%20Regarding%20Certification%20Flow.png)  
 > 📸 *Comment for photo:* Screenshot of Flow Designer showing “Regarding Certificate” flow logic.
 
 ---
@@ -191,7 +191,7 @@ The main goal is to improve operational efficiency by automatically assigning su
 
 > 💬 *Comment:* This flow automatically routes platform-related tickets to the Platform team for faster resolution.  
 
-![Platform Flow Screenshot](./images/10%20Regarding%20Platform%20Flow.png)  
+![Platform Flow Screenshot](10%20Regarding%20Platform%20Flow.png)  
 > 📸 *Comment for photo:* Screenshot of Flow Designer showing “Regarding Platform” flow configuration.
 
 ---
@@ -200,12 +200,13 @@ The main goal is to improve operational efficiency by automatically assigning su
 The implementation of the **automated ticket routing system** in **ServiceNow** at **ABC Corporation** successfully streamlined the ticket management process.  
 By automating group assignments using Flows, the system reduces manual effort, minimizes response delays, and improves overall operational efficiency and customer satisfaction.
 
-![Create Groups Screenshot](./images/11%20Conclusion.png)
+![Create Groups Screenshot](11%20Conclusion.png)
 
 > 💬 *Final Comment:* This automation showcases ServiceNow’s potential in workflow orchestration and intelligent support operations.
 
 ---
 
 ## 📂 Folder Structure Example
+
 
 
